@@ -1,0 +1,9 @@
+<head>
+	<title>PirateBox - Share Freely!</title>
+	<script src="/content/js/jquery.min.js"></script>
+	<script src="/content/js/scripts.js"></script>
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
+</head>
+
+<div class="container">
+		<div class="card">
